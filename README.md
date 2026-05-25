@@ -2,7 +2,7 @@
 
 **Projet Final — Pratique de la Data Science**  
 M2 ISF — Université Paris-Dauphine | PSL  
-Encadrant : M. FIHEY Pierre — 2025/2026
+
 
 Groupe : KEROUAD Lamyae · ZRIBI Rim · SBAA Nour · LIU Zhaoyi
 
